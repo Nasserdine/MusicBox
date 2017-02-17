@@ -1,0 +1,49 @@
+
+
+#contenaire{
+	display: flex;
+}
+
+#p1{
+	margin-left: 20px;
+	margin-top: 20px;
+	background-image: url('1.png');
+	width: 100px;
+	height: 200;
+	top:250px
+}
+#p2{
+	margin-left: 20px;
+	margin-top: 20px;
+	background-image: url('2.png');
+	width: 100px;
+	height: 200;
+}
+#p3{
+	margin-left: 20px;
+	margin-top: 20px;
+	background-image: url('3.png');
+	width: 100px;
+	height: 200;
+}
+#p4{
+	margin-left: 20px;
+	margin-top: 20px;
+	background-image: url('4.png');
+	width: 100px;
+	height: 200;
+}
+#p5{
+	margin-left: 20px;
+	margin-top: 20px;
+	background-image: url('5.png');
+	width: 100px;
+	height: 200;
+}
+#p6{
+	margin-left: 20px;
+	margin-top: 20px;
+	background-image: url('6.png');
+	width: 100px;
+	height: 200;
+}
